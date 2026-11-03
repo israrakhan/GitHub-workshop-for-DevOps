@@ -9,3 +9,5 @@ my_function()
 
 
 test()
+
+123
