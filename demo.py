@@ -1,8 +1,9 @@
-def my_function():
-    a = 5
-    b = 6
-    c = 6
+"""Simple function example."""
 
-    return c
+
+def my_function():
+    """Return the value six."""
+    return 6
+
 
 my_function()
