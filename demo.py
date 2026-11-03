@@ -3,11 +3,6 @@ def my_function():
     b = 6
     c = 6
 
-    return d
+    return c
 
 my_function()
-
-
-test()
-
-123
